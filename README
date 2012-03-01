@@ -1,0 +1,12 @@
+TONG = Trevisan Pong
+
+JavaME game that uses ZineMob.
+
+A pong game with the left bat only.
+
+Player controls the bat vertically with the device keyboard.
+Ball moves some pixels each frame, in some direction.
+When the ball collides with the bat, the ball bounces and inverts the direction.
+When the ball collides with the edges of the screen, the ball bounces and inverts the direction.
+When the bat collides with the edges of the screen, the user can only move the bat to the other direction.
+When the ball collides with something, a flare effect appears.
