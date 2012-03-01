@@ -1,6 +1,6 @@
 TONG = Trevisan Pong
 
-JavaME game that uses ZineMob.
+JavaME game that uses ZineMob (https://github.com/marciodrosa/ZineMob).
 
 A pong game with the left bat only.
 
